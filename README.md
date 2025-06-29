@@ -1,6 +1,6 @@
 # RIDE BOOKING APP
 
-Ride Booking App is a cross-platform mobile application designed to provide users with an easy and affordable way to book rides. Built using React Native, Redux, JavaScript, and Firebase, this full-stack application works seamlessly on both Android and iOS devices.
+Ride Booking App is a cross-platform mobile application designed to provide users with an easy and affordable way to book rides. Built using React Native, Redux, JavaScript and Google Firebase, this full-stack application works seamlessly on both Android and iOS devices.
 
 ## Key Features
 
