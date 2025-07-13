@@ -11,13 +11,13 @@ Ride Booking App is a cross-platform mobile application designed to provide user
 
 ## Screenshots
 
-![Screenshot1](assets/screenshot1.jpeg)
-![Screenshot2](assets/screenshot2.jpeg)
-![Screenshot3](assets/screenshot3.jpeg)
-![Screenshot4](assets/screenshot4.jpeg)
-![Screenshot5](assets/screenshot5.jpeg)
-![Screenshot6](assets/screenshot6.jpeg)
-![Screenshot7](assets/screenshot7.jpeg)
+<img src="assets/screenshot1.jpeg" alt="Screenshot 1" width="300"/>
+<img src="assets/screenshot2.jpeg" alt="Screenshot 2" width="300"/>
+<img src="assets/screenshot3.jpeg" alt="Screenshot 3" width="300"/>
+<img src="assets/screenshot4.jpeg" alt="Screenshot 4" width="300"/>
+<img src="assets/screenshot5.jpeg" alt="Screenshot 5" width="300"/>
+<img src="assets/screenshot6.jpeg" alt="Screenshot 6" width="300"/>
+<img src="assets/screenshot7.jpeg" alt="Screenshot 7" width="300"/>
 
 ## Installation
 
