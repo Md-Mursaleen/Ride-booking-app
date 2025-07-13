@@ -11,7 +11,7 @@ const LoginScreen = () => {
     const [initializing, setInitializing] = useState(true);
     const [user, setUser] = useState();
     GoogleSignin.configure({
-        webClientId: "384229130723-g4uej5md686vm3pjj5mdflv2p65h4d07.apps.googleusercontent.com"
+        webClientId: "836827265830-j29nq0nbdg347qmlhja0f5cja5r7mi5n.apps.googleusercontent.com"
     });
     function onAuthStateChanged(user) {
         setUser(user);

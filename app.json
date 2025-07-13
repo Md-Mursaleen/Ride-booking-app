@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Uber",
-    "slug": "uber-clone",
+    "slug": "uber",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -43,8 +43,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "4cda8f43-fdaf-453c-9ec2-bfbbc89d9811"
+        "projectId": "8f91b171-13a2-4e82-96bd-ed824a34bc5c"
       }
-    }
+    },
+    "owner": "md_mursaleen"
   }
 }

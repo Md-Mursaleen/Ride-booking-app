@@ -1,18 +1,44 @@
 {
+  "cli": {
+    "version": ">= 12.5.4",
+    "appVersionSource": "remote"
+  },
   "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "ios": {
+        "simulator": true
+      },
+      "android": {
+        "gradleCommand": ":app:assembleDebug"
+      }
+    },
     "preview": {
       "android": {
         "buildType": "apk"
       }
     },
     "preview2": {
+      "distribution": "internal",
+      "ios": {
+        "simulator": true
+      },
       "android": {
         "gradleCommand": ":app:assembleRelease"
       }
     },
-    "preview3": {
-      "developmentClient": true
-    },
+    "production": {
+      "autoIncrement": true,
+      "ios": {
+        "enterpriseProvisioning": "universal"
+      },
+      "android": {
+        "gradleCommand": ":app:assembleRelease"
+      }
+    }
+  },
+  "submit": {
     "production": {}
   }
 }
